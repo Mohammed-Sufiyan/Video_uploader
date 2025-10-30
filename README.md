@@ -55,7 +55,7 @@ Operates silently in the background even when the app is closed — built with W
 ## 🧱 Project Structure
 
 <p align="center">
-  <img width="500" alt="Project Structure" src="https://github.com/user-attachments/assets/f92c4379-1ab9-4e67-a7e9-0930d8f5bfc6" />
+  <img width="500" alt="Project Structure" src="https://github.com/Mohammed-Sufiyan/Video_uploader/blob/main/assets/images/code.png" />
 </p>
 
 ---
@@ -82,9 +82,6 @@ Operates silently in the background even when the app is closed — built with W
 
 ## 👨‍💻 Author
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/40cce1ce-65b3-4e13-9a44-8ad5dc4ab513" width="120" height="120" alt="Author Profile" style="border-radius: 50%;"/>
-</p>
 
 ### **Mohammed Sufiyan**
 
